@@ -3,7 +3,7 @@
 A simple console-based bank management system application built using C#.
 ![bank user interface](https://github.com/A1pha4/bank_system/blob/main/BANK%20GUI%201.png)
 ![bank user interface](https://github.com/A1pha4/bank_system/blob/main/BANK%20GUI%203.png)
-![bank user interface](https://github.com/A1pha4/bank_system/blob/main/BANK%20GUI%201.png)
+![bank user interface](https://github.com/A1pha4/bank_system/blob/main/BANK%20GUI2.png)
 ## Features
 
 - Supports basic bank operations (account creation, money: deposit, withdrawal and transfer, balance checking and bank account deletion).
