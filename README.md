@@ -1,7 +1,7 @@
 # Bank_System Console App
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-3.1%20%7C%205.0%20%7C%206.0-blue)
 ![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)
-A simple console-based bank management system application built using C#.
+- A simple console-based bank management system application built using C#.
 ![bank user interface](https://github.com/A1pha4/bank_system/blob/main/BANK%20GUI%203.png)
 ![bank user interface](https://github.com/A1pha4/bank_system/blob/main/BANK%20GUI2.png)
 ## Features
