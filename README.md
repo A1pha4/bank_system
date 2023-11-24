@@ -2,15 +2,14 @@
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-3.1%20%7C%205.0%20%7C%206.0-blue)
 ![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)
 A simple console-based bank management system application built using C#.
-![bank user interface](https://github.com/A1pha4/bank_system/blob/main/BANK%20GUI%201.png)
 ![bank user interface](https://github.com/A1pha4/bank_system/blob/main/BANK%20GUI%203.png)
 ![bank user interface](https://github.com/A1pha4/bank_system/blob/main/BANK%20GUI2.png)
 ## Features
 
-- Supports basic bank operations (account creation, money: deposit, withdrawal and transfer, balance checking and bank account deletion).
-- Provides a command-line interface for user input and interaction.
-- provides users with unique account numbers and Personal Identification Number(PIN)
-- Handles input errors gracefully.
+- **Bank Functionalities:** Supports basic bank operations (account creation, money: deposit, withdrawal and transfer, balance checking and bank account deletion).
+- **Friendly User Interface(UI):** Provides a command-line interface for user input and interaction.
+- **Account Security:** provides users with unique account numbers and Personal Identification Number(PIN)
+- **Error Handling:** Handles input errors gracefully.
 
 ## Getting Started
 
